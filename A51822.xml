@@ -1,0 +1,282 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd at the parish-church of St. Andrews Holborn, the 30th of December, 1694, on the most lamented death of our Most Gracious Sovereign Queen Mary by Tho. Mannyngham ...</title>
+            <author>Manningham, Thomas, 1651?-1722.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51822</idno>
+            <idno type="STC">Wing M504</idno>
+            <idno type="STC">ESTC R6484</idno>
+            <idno type="EEBO-CITATION">12636916</idno>
+            <idno type="OCLC">ocm 12636916</idno>
+            <idno type="VID">64902</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51822)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64902)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 697:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd at the parish-church of St. Andrews Holborn, the 30th of December, 1694, on the most lamented death of our Most Gracious Sovereign Queen Mary by Tho. Mannyngham ...</title>
+                  <author>Manningham, Thomas, 1651?-1722.</author>
+               </titleStmt>
+               <extent>[8], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Sam. Smith and Benj. Walford ..., and Eliz. Crooke ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary --  II, --  Queen of England, 1662-1694 --  Sermons.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:64902:2"/>
+            <p>Dr. <hi>MANNYNGHAM</hi>'s SERMON Preach'd at the PARISH-CHURCH OF St. ANDREWS HOLBORN.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:64902:1"/>
+            <pb facs="tcp:64902:1"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:64902:3"/>
+            <pb facs="tcp:64902:3"/>
+            <p>A SERMON Preach'd at the PARISH-CHURCH OF St. <hi>ANDREWS HOLBORN,</hi> The 30th of <hi>December,</hi> 1694.</p>
+            <p>ON THE Moſt Lamented DEATH of our moſt Gracious Sovereign Queen Mary.</p>
+            <p>By <hi>THO. MANNYNGHAM</hi> D.D. Rector of St. <hi>Andrew Holborn,</hi> and Chaplain in Ordinary to His MAJESTY.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Sam. Smith</hi> and <hi>Benj. Walford</hi> at the <hi>Prince's Arms</hi> in St. <hi>Paul's</hi> Church-yard; and <hi>Eliz. Crooke</hi> at the <hi>Green Dragon</hi> without <hi>Temple-Bar.</hi> 1695.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:64902:4"/>
+            <pb facs="tcp:64902:4"/>
+            <head>TO THE READER.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Had not publiſh'd <hi>This Sermon,</hi> but that I ſaw Great Leaders be<g ref="char:EOLhyphen"/>fore me; and that it was not poſſible, when others had broke the way, for me to ſtand any longer to my own Judg<g ref="char:EOLhyphen"/>ment in this Matter, without gi<g ref="char:EOLhyphen"/>ving ſome Offence to many Excel<g ref="char:EOLhyphen"/>lent Perſons, who by their Piety and Friendſhip have great Authority over me.</p>
+            <pb facs="tcp:64902:5"/>
+            <p>I am conſcious of the many De<g ref="char:EOLhyphen"/>fects of <hi>This Diſcourſe,</hi> which was the Production only of ſome few hours; which was written with ſuch a Concern, as would not allow of much Ornament, and which cost me more Tears, than Invention.</p>
+            <p>I am alſo ſenſible that I have given you here but a very imperfect View of but ſome of the many Vir<g ref="char:EOLhyphen"/>tues of our most <hi>Dear</hi> and <hi>Sove<g ref="char:EOLhyphen"/>reign Queen</hi> departed. For ha<g ref="char:EOLhyphen"/>ving confin'd my ſelf in a manner to my <hi>own</hi> Knowledge and Obſerva<g ref="char:EOLhyphen"/>tion of <hi>Her,</hi> I did not take Com<g ref="char:EOLhyphen"/>paſs enough to bring in half <hi>Her</hi> Worth: this forc'd me to neglect a main part of her <hi>Princely Cha<g ref="char:EOLhyphen"/>racter,</hi> and to ſpeak of Her ra<g ref="char:EOLhyphen"/>ther as a most <hi>Pious Lady,</hi> than
+<pb facs="tcp:64902:5"/>as a most <hi>Noble</hi> and <hi>Illuſtrious</hi> Queen.</p>
+            <p>However, there is ſome Advan<g ref="char:EOLhyphen"/>tage in this my low performance, that, that part of Her Example which you may read in this Sermon, ſeems most capable of a <hi>General Imi<g ref="char:EOLhyphen"/>tation:</hi> which, I aſſure you, was the chief Aim of this preſent Diſ<g ref="char:EOLhyphen"/>courſe; which, after ſome Retire<g ref="char:EOLhyphen"/>ment, comes now abroad in the Ha<g ref="char:EOLhyphen"/>bit of a True Mourner, without much Dreſs or care of Periods; without Flattery, or mean Deſigns; without hopes of Applauſe, or fear of Cenſure; thoſe little things, which <hi>Sor<g ref="char:EOLhyphen"/>row</hi> always diſregards.</p>
+            <p>Receive it therefore as it is, a Compoſure <hi>Plain</hi> and <hi>Serious,</hi> and
+<pb facs="tcp:64902:6"/>in its Circumſtances, I hope, not <hi>Un<g ref="char:EOLhyphen"/>decent.</hi> A Compoſure, which has nothing to recommend it, but the <hi>Great</hi> and <hi>Dear Subject</hi> of which it Treats, the deep and ſincere <hi>Grief</hi> of Him who made it, and the many unfeigned <hi>Tears</hi> of thoſe who Heard it,</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:64902:6"/>
+            <epigraph>
+               <bibl>Chapter the VIII<hi rend="sup">th</hi> of the Prophet <hi>A MOS,</hi> Verſe the Ninth, and part of the Tenth.</bibl>
+               <q>And it ſhall come to paſs in that day, ſaith the Lord, that I will cauſe the Sun to go down at Noon, and I will Darken the Earth in the clear Day.</q>
+            </epigraph>
+            <div type="part">
+               <head>
+                  <q>And I will turn your Feasts into Mourning.</q>
+               </head>
+               <p>IT would have been proper on this <hi>Day,</hi> to have entertained you with ſome further Enlargements, on the Wonderful Wiſdom and Mercy of God, in ſending His own Son into the World, to Compleat the Work of
+<pb n="2" facs="tcp:64902:7"/>our Redemption: from thence, to have rais'd your Minds into a joyful Frame, and a becoming Chearfulneſs; and to have laid down ſome ſuch Rules, as might make your Rejoycings ſober and pious, Moderate and Chriſtian, and ſuita<g ref="char:EOLhyphen"/>ble to the Mercy, which at <hi>this Time,</hi> we Commemorate.</p>
+               <p>But, als! there is a <hi>ſad Occaſion,</hi> which has given a new Turn to our Thoughts, a ſufficient Temper and Solemnity to all our Joys, and has made it ſeaſonable for me to change my Subject, and to turn my Song into Lamentations.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <q>And it ſhall come to paſs in that Day, ſaith the Lord, <hi>&amp;c.</hi>
+                  </q>
+               </head>
+               <p>The Prophet here expreſſes the Great<g ref="char:EOLhyphen"/>neſs, Suddenneſs, and Unexpectedneſs of the Calamities that were coming on the Jews, by Phraſes and Similitudes which are moſt ſignificant, and apt, both to imprint, and to declare great Conſternation of
+<pb n="3" facs="tcp:64902:7"/>Mind: For thus he ſignifies, that God would bring ſuch ſudden Troubles upon them, as ſhould cauſe as much Terror and Affrightment, as if they really ſaw the Sun go down at Noon, and the clear<g ref="char:EOLhyphen"/>eſt part of the day immediately expire into thick and horrid Darkneſs: or as if in the midſt of their greateſt Jollities, and Feſtival Delights, ſome ſhould hear of the ſudden Death, of their only Children, and others, of their Deareſt Friends.</p>
+               <p>Now ſomething that comes very near to this moſt diſmal Repreſentation, has in<g ref="char:EOLhyphen"/>deed happen'd to us of this Kingdom: for we have ſuddenly loſt ſuch a <hi>Pattern</hi> of <hi>Vertue,</hi> as did truly ſhine amongſt us in a <hi>Meridian Luſtre;</hi> we beheld our <hi>Queen</hi> with chearful Eyes, as She appear'd in the very Beauty of Holineſs, rejoycing to run Her Courſe of pious Duties: and when we expected nothing but a long and clear Day of <hi>Light</hi> and <hi>good Example;</hi> be<g ref="char:EOLhyphen"/>hold! Darkneſs has overſpread us, all Faces gather Blackneſs, and our <hi>Greatest
+<pb n="4" facs="tcp:64902:8"/>Feſtival</hi> is turn'd into a Seaſon of <hi>Mourn<g ref="char:EOLhyphen"/>ing!</hi>
+               </p>
+               <p>Now that it may appear, that our ſud<g ref="char:EOLhyphen"/>den loſs of ſo <hi>Excellent</hi> a <hi>Queen,</hi> in the prime of <hi>Her</hi> years, and in the full bright<g ref="char:EOLhyphen"/>neſs of <hi>Her</hi> Vertues, may very well be compar'd to the <hi>Sun</hi>'s going down at <hi>Noon,</hi> or to the Earth's being <hi>Darkned</hi> in the midſt of a <hi>clear Day;</hi> I will en<g ref="char:EOLhyphen"/>deavour to ſet before you ſomething of <hi>Her Character,</hi> and then conſider what reaſon we have to Mourn, and what is the beſt uſe we are to make of ſuch Diſpen<g ref="char:EOLhyphen"/>ſations.</p>
+               <p>As to <hi>Her Character,</hi> I ſhall not much meddle with the Reports and Relations of others; becauſe I think I am able to de<g ref="char:EOLhyphen"/>lineate ſome very <hi>Conſiderable Branches</hi> of it, from my <hi>own Knowledge</hi> and <hi>Obſer<g ref="char:EOLhyphen"/>vation:</hi> And therein I ſhall confine my ſelf to theſe <hi>Three</hi> things:</p>
+               <list>
+                  <pb n="5" facs="tcp:64902:8"/>
+                  <item>I. I ſhall Contemplate Her, in the <hi>pecu<g ref="char:EOLhyphen"/>liar Sweetneſs</hi> of Her <hi>Temper.</hi>
+                  </item>
+                  <item>II. In Her Continual Concern for, and Encouragement of, the True <hi>Religion</hi> eſtabliſh'd amongſt us.</item>
+                  <item>III. In the <hi>Conſtant</hi> Practice of Her own <hi>Devotion.</hi>
+                  </item>
+               </list>
+               <p n="1">I. I ſhall Contemplate <hi>Her,</hi> in the pecu<g ref="char:EOLhyphen"/>liar <hi>Sweetneſs</hi> of Her Temper.</p>
+               <p>We are apt to think, That <hi>Sweetneſs</hi> of Temper, is the Ordinary Conſtitution of Princes, and great Perſons: that it natu<g ref="char:EOLhyphen"/>rally ariſes from a Generous Blood, a No<g ref="char:EOLhyphen"/>ble Education, Obſequious Attendance, and the eaſie Accommodations of Life: but all theſe are no other than <hi>Contingent Cauſes,</hi> and do oftentimes produce quite contrary Effects; as Pride, Haughtineſs, and Cru<g ref="char:EOLhyphen"/>elty, and ſuch nice and faſtidious Hu<g ref="char:EOLhyphen"/>mours, as few can comply with, and none can pleaſe.</p>
+               <p>
+                  <pb n="6" facs="tcp:64902:9"/>
+A <hi>Sweet Natural Temper</hi> is certainly a great bleſſing from whatſoever it ariſes; but there muſt be care taken to poliſh and improve it, or it will not hold good long; it is very apt to turn into Slothfulneſs or a Senſual Eaſe; ſo that Vertue alone can give it ſtability, and a laſting ſhine. It is the moſt proper Soil for <hi>Chriſtianity</hi> to grow in, and then it has this advantage, that it receives a <hi>New Richneſs</hi> from the very <hi>Fruit</hi> it bears. It is likewiſe That, which beſt ſets off, and recommends a Vertuous Life to others; for who can reſiſt the Counſels of Wiſdom, when they are inſinuated by all the Charms of Love and Good Nature!</p>
+               <p>Now a <hi>peculiar Sweetneſs</hi> of Diſpoſition is ever expected from thoſe who are <hi>Emi<g ref="char:EOLhyphen"/>nently pious;</hi> for they are Nobly Deſcended indeed, being in an eſpecial manner <hi>Born</hi> of God; They are Educated under the <hi>Higheſt Inſtitution,</hi> the Dictates and Government of the <hi>Holy Spirit,</hi> That Spirit of Gentle<g ref="char:EOLhyphen"/>neſs, Meekneſs, and Love: and thereby their Souls are enlarg'd into the moſt generous Deſigns of Humanity and Publick Good.</p>
+               <p>
+                  <pb n="7" facs="tcp:64902:9"/>
+And ſuch was the <hi>Temper</hi> of our moſt <hi>Excellent Queen;</hi> a Natural Sweetneſs of Mind, heighten'd by good Principles, and a pious Education, perfected and brightned by a Conſtant Exerciſe in the Duties of Re<g ref="char:EOLhyphen"/>ligion.</p>
+               <p>This made all Her Carriage Gracious, Her Intentions moſt Sincere, Her Converſa<g ref="char:EOLhyphen"/>tion moſt Lovely: All who ſaw Her at a Diſtance read <hi>Kindneſs</hi> in Her Looks, and all who attended on Her, found its Real effects. She had all that Majeſty, which was needful, Temper'd with that Mildneſs, which made it more Becoming: <hi>She</hi> knew not how to maintain a <hi>ſullen Grandeur</hi> a<g ref="char:EOLhyphen"/>mong thoſe whom <hi>She</hi> ever eſteem'd more Her <hi>Friends,</hi> than Her Subjects; and they who cenſur'd Her as <hi>too Familiar</hi> in Her <hi>Con<g ref="char:EOLhyphen"/>verſation</hi> for a <hi>Queen,</hi> may well pardon Her Condeſcention, when they conſider, that in all Her <hi>ſweet Behaviour, She</hi> endeavor'd to ſhew that <hi>She</hi> was <hi>Akin</hi> to our Nation. Beſides, <hi>She</hi> had ſpent ſome part of <hi>Her</hi> days in a <hi>Country,</hi> where 'tis not the faſhion for the
+<pb n="8" facs="tcp:64902:10"/>
+                  <hi>Higheſt Perſons</hi> to affect much <hi>Diſtance;</hi> but where they chuſe to <hi>Converſe</hi> more upon a <hi>Level,</hi> with more <hi>Freedom</hi> and <hi>Equality,</hi> than is uſual in the Courts of <hi>Monarchies:</hi> and by this <hi>Obliging Civility</hi> of <hi>Hers,</hi> She won the Hearts of all the Conſiderable <hi>Families</hi> in the <hi>Provinces,</hi> and was almoſt <hi>Adored</hi> by the Common People: And had there not been ſome <hi>unhappy Differences</hi> in this King<g ref="char:EOLhyphen"/>dom about her <hi>way</hi> of Coming to the <hi>Throne,</hi> which made ſome People ſtudy to be peeviſh and cenſorious, <hi>She</hi> had been <hi>
+                     <g ref="char:V">Ʋ</g>
+                     <g ref="char:EOLhyphen"/>niverſally Admir'd,</hi> and would have wanted nothing but a <hi>longer Reign,</hi> to have equall'd <hi>Her,</hi> with the moſt <hi>Celebrated</hi> of all our <hi>Queens.</hi>
+               </p>
+               <p>Which will further appear, if in the II<hi rend="sup">d</hi> place, we conſider Her in Her continual Concern for, and Encouragement of the True <hi>Religion</hi> eſtabliſh'd amongſt us.</p>
+               <p>Her Zeal for the good of the <hi>Church,</hi> and Her right Senſe and Judgment in Matters of Religion, were ſo well known to all the
+<pb n="9" facs="tcp:64902:10"/>
+                  <hi>Clergy</hi> who were about Her, that <hi>She</hi> was the very Joy of their Hearts, the Encoura<g ref="char:EOLhyphen"/>ger of their Studies, and their continual Sup<g ref="char:EOLhyphen"/>port under all the <hi>Reproaches</hi> of the Wicked.</p>
+               <p>
+                  <hi>She</hi> ſtor'd Herſelf with the beſt choice of good Books written in the way of <hi>Practical Divinity,</hi> read them often in <hi>Her</hi> Retire<g ref="char:EOLhyphen"/>ment, and made them part of Her Enter<g ref="char:EOLhyphen"/>tainment when <hi>She</hi> ſate at <hi>work</hi> with Her <hi>Maids</hi> of <hi>Honour;</hi> where there was conſtant Reading of Good Books, either of <hi>Hiſtory</hi> or <hi>Divinity,</hi> which they undertook by turns, one always Reading <hi>aloud</hi> to the reſt; and this they did to carry on a Conſtant Im<g ref="char:EOLhyphen"/>provement, to ſupply their Thoughts with uſeful <hi>Knowledge</hi> or <hi>Meditation,</hi> and to pre<g ref="char:EOLhyphen"/>vent all <hi>unprofitable Diſcourſe.</hi>
+               </p>
+               <p>Now this is a Pattern for all our <hi>Ladies</hi> to imitate, that they may be able to give a good account of that Time and <hi>Leiſure,</hi> which their plentiful Fortunes, and their fairer circumſtances of Life allow them: that thereby they may ſhut out many Temptati<g ref="char:EOLhyphen"/>ons
+<pb n="10" facs="tcp:64902:11"/>to which they are otherwiſe moſt ex<g ref="char:EOLhyphen"/>poſed, furniſh their Minds with the beſt Ar<g ref="char:EOLhyphen"/>guments of Diſcourſe, raiſe their Conver<g ref="char:EOLhyphen"/>ſation into more degrees of Wiſdom, and exchange their <hi>Cenſoriouſneſs</hi> of others for a more frequent Examination of themſelves.</p>
+               <p>'Tis to the <hi>Queen</hi> that we owe many of thoſe <hi>Pious Treatiſes</hi> which have been lately Publiſh'd amongſt us: And that multitude of <hi>plain, uſeful,</hi> and <hi>Practical Sermons,</hi> which She approv'd of, and caus'd to be <hi>Printed,</hi> are <hi>Her Gift</hi> to the Publick.</p>
+               <p>It is hardly to be expreſs'd, with what Delight She came to Her <hi>Chapel;</hi> what At<g ref="char:EOLhyphen"/>tention <hi>She</hi> gave to the <hi>Preacher,</hi> and what an Example of <hi>Seriouſneſs She</hi> was, during the whole Service of the Church.</p>
+               <p>
+                  <hi>She</hi> ſtir'd up ſuch an <hi>Holy Emulation</hi> in all who appear'd before Her in the <hi>Pulpit,</hi> that it is judiciouſly concluded by many, that there was no ſuch <hi>Preaching</hi> in the whole World beſides, as at <hi>Whtie-Hall;</hi> and never ſuch in <hi>England</hi> before.</p>
+               <p>
+                  <pb n="11" facs="tcp:64902:11"/>
+I do not think that any of Her Sex, (and truly but few of <hi>ours</hi>) were able to make a better Judgment of <hi>thoſe Performances: She</hi> never was affected with <hi>fine ſayings,</hi> and <hi>flowers</hi> of <hi>Rhetorick;</hi> with <hi>angry Controver<g ref="char:EOLhyphen"/>ſie,</hi> or <hi>Spiritual Railing;</hi> but where there was <hi>ſound Divinity, ſolid Senſe,</hi> good <hi>Rules</hi> and <hi>Directions, plain Matter,</hi> an <hi>
+                     <g ref="char:V">Ʋ</g>ſeful Sub<g ref="char:EOLhyphen"/>ject,</hi> and a <hi>vein of Holineſs</hi> that ran through<g ref="char:EOLhyphen"/>out; there <hi>Her</hi> Approbation was ſure to fol<g ref="char:EOLhyphen"/>low; there <hi>She</hi> commended; and there, when ſeaſonable, <hi>She</hi> plac'd Her Prefer<g ref="char:EOLhyphen"/>ments.</p>
+               <p>
+                  <hi>Her</hi> Heart was wholly ſet upon <hi>Goodneſs;</hi> and all who were Her <hi>Favourites,</hi> came to that Honour under the <hi>Character</hi> of <hi>Good</hi> and <hi>Pious.</hi> We may ſoon know where Her <hi>Heart</hi> was, if in the</p>
+               <p n="3">III<hi rend="sup">d</hi> place, we contemplate <hi>Her</hi> in the <hi>con<g ref="char:EOLhyphen"/>ſtant practiſe</hi> of <hi>Her own Devotion.</hi>
+               </p>
+               <p>
+                  <hi>Devotion</hi> is uſually look't upon as the <hi>ſoft<g ref="char:EOLhyphen"/>eſt</hi> and moſt <hi>delicate</hi> exerciſe of Religion;
+<pb n="12" facs="tcp:64902:12"/>where the Affections may have an <hi>innocent En<g ref="char:EOLhyphen"/>largement;</hi> and the Soul may ſafely diſplay it ſelf in all the <hi>Ardours</hi> of <hi>Divine Love.</hi>
+               </p>
+               <p>Upon this account all <hi>pious Ladies</hi> have laid an eſpecially claim to <hi>Devotion,</hi> as their <hi>peculiar Province:</hi> and tho' they have yield<g ref="char:EOLhyphen"/>ed to <hi>Men</hi> in other parts of Religion, where greater ſtrength of <hi>Reaſoning</hi> is requir'd; yet in this more <hi>Affectionate</hi> part, they have al<g ref="char:EOLhyphen"/>ways ſtudied, or pretended to <hi>Excel.</hi>
+               </p>
+               <p>Let this be granted: But then conſider a<g ref="char:EOLhyphen"/>gain, how common and how dangerous the <hi>Miſcarriages</hi> are in thoſe <hi>warmer Elevations</hi> of the Soul; where the <hi>Affections,</hi> which are ſo apt to <hi>Inflame,</hi> are moſt unfit to <hi>Guide?</hi> for how eaſie is the paſſage from <hi>earneſt Devoti<g ref="char:EOLhyphen"/>on,</hi> to Heats of <hi>Enthuſiaſm,</hi> or to weakneſſes of <hi>Superſtition?</hi> How ready are the <hi>Humours</hi> of the <hi>Body</hi> to mingle with the <hi>Fervours</hi> of the <hi>Mind,</hi> and to <hi>Taint</hi> the Sacrifie? nay, how often are the Zealous deceiv'd with <hi>falſe ways</hi> of <hi>Worſhip?</hi> and having a ſtrange <hi>Impetus</hi> of <hi>Praying</hi> upon them, are Directing <hi>it</hi> to eve<g ref="char:EOLhyphen"/>ry
+<pb n="13" facs="tcp:64902:12"/>Object, that an <hi>Idolatrous Cuſtom</hi> ſhall ſet before them? and laſtly, How often does it happen, that they, who are <hi>moſt eager</hi> in Raiſing their <hi>Affections</hi> in their <hi>Cloſets,</hi> do make ſad work with their <hi>Paſſions</hi> in their <hi>Families,</hi> a long time after? Whereas I can ſay this for the <hi>Queen's Devotion,</hi> that it was the moſt <hi>Judicious,</hi> the beſt <hi>Temper'd,</hi> and the moſt <hi>Conſtant,</hi> that I ever obſerv'd in any of <hi>Her</hi> Sex.</p>
+               <p>
+                  <hi>She</hi> addreſs'd Her ſelf to <hi>God</hi> in a moſt Humble and Aweful Manner, without any Affectation of odd <hi>Motions, Geſtures,</hi> or <hi>Voice: She</hi> uſually <hi>cover'd Her Face</hi> to keep <hi>Her Attention</hi> fix'd, and to prevent the <hi>Wander<g ref="char:EOLhyphen"/>ing</hi> of Her <hi>Thoughts:</hi> She always ſeem'd to be deeply affected with a due ſenſe of the <hi>Divine Majeſty,</hi> and of the <hi>great Duty</hi> She was about: but being of a very <hi>Even Tem<g ref="char:EOLhyphen"/>per,</hi> She was not ſubject to much <hi>Tranſport</hi> on one hand, or to much <hi>coldneſs</hi> on the other; but ſeem'd to keep up an <hi>Equal Con<g ref="char:EOLhyphen"/>cern,</hi> a <hi>Continual fire</hi> in <hi>Her Heart</hi> without much <hi>Flame,</hi> from the beginning to the end
+<pb n="14" facs="tcp:64902:13"/>of <hi>Her Devotion.</hi> In which, <hi>Her Conſtancy,</hi> was very remarkable, which I am ſure is the <hi>best ſign</hi> of a <hi>ſolid piety:</hi> whatever <hi>Buſineſs She</hi> had, (which was oftentimes very preſ<g ref="char:EOLhyphen"/>ſing and weighty in the <hi>abſence</hi> of the <hi>King</hi>) <hi>She</hi> would never miſs Her <hi>ſolemn prayers:</hi> and if upon the account of ſome <hi>neceſſary avocations She</hi> found the time would be un<g ref="char:EOLhyphen"/>ſeaſonable for Her <hi>Chaplains</hi> to attend; (ſuch was Her Goodneſs and Condeſcention to the meaneſt of Her Servants) She would diſ<g ref="char:EOLhyphen"/>miſs them; and have <hi>prayers</hi> ſaid in Her own Chamber by the <hi>Clerk</hi> of <hi>Her Cloſet,</hi> who was always ready to aſſiſt <hi>Her</hi> Devotion.</p>
+               <p>
+                  <hi>She</hi> never miſs'd to <hi>Communicate</hi> every <hi>Month</hi> in Her Chapel; and Her <hi>preparation</hi> was generally enter'd upon with ſome ſtrict<g ref="char:EOLhyphen"/>neſs almoſt a <hi>Week</hi> before: and thoſe <hi>Inno<g ref="char:EOLhyphen"/>cent Diverſions,</hi> which Her Station call'd for, and the Expectation of the <hi>Court</hi> requir'd, and ſome joyful <hi>Occaſions</hi> made ſeaſonable; <hi>She</hi> always, as far as lay in Her power, ſo order'd and contriv'd; that they might be at the greateſt <hi>diſtance</hi> from Her more ſeri<g ref="char:EOLhyphen"/>ous
+<pb n="15" facs="tcp:64902:13"/>times; and give the leaſt diſturbance to the <hi>Devotional</hi> frame of Her Soul.</p>
+               <p>Thus <hi>She</hi> kept up a Continual Intercourſe with Heaven; <hi>Her</hi> Lamp was always Burn<g ref="char:EOLhyphen"/>ing, always Bright; and <hi>She</hi> had but little to do when God was pleas'd to Confine Her to Her Bed of Sickneſs: Reſignation and Submiſſion was Her <hi>whole Duty</hi> then, and with that She meekly comply'd.</p>
+               <p>When the Art and Skill of the Phyſicians fail'd, and Her Death might be eaſily read in the <hi>Concern</hi> of all who were about Her; <hi>She alone</hi> was not ſurpriz'd; <hi>She</hi> had a God at hand whom <hi>She</hi> had faithfully ſerv'd; and <hi>She</hi> was well prepar'd to commit Her Spirit to him, and to reſign Her Earthly Throne, for a ſhare in the Everlaſting Kingdom.</p>
+               <p>Thus <hi>She</hi> has had but a <hi>ſhort Reign</hi> amongſt us, and that mix'd with Cares, attended with ſome hard Circumſtances, being often over<g ref="char:EOLhyphen"/>clouded with the ſad apprehenſions of what might befall Her <hi>Royal Husband,</hi> who was
+<pb n="16" facs="tcp:64902:14"/>call'd from Her every Summer, by the Ne<g ref="char:EOLhyphen"/>ceſſities of a Forreign War: who has eſcap'd many Dangers abroad, to meet with ſome<g ref="char:EOLhyphen"/>thing <hi>more Terrible</hi> at <hi>Home:</hi> for <hi>He,</hi> who could have met His <hi>own</hi> Death in the field, with the cleareſt Courage and the firmeſt Reſolution, could not part with His Deareſt <hi>Queen,</hi> without the Expreſſions of that <hi>Ten<g ref="char:EOLhyphen"/>derneſs</hi> of Soul, which only <hi>True Conjugal Love</hi> Could make, and muſt <hi>Excuſe.</hi>
+               </p>
+               <p>
+                  <hi>She</hi> is gone from us in the midſt of Her Age, when we might have expected the In<g ref="char:EOLhyphen"/>fluence of <hi>Her Publick piety</hi> for many years, and when we moſt wanted it too.</p>
+               <p>Thus our <hi>Sun</hi> went down as at <hi>Noon,</hi> and our Earth was Darkned in the midſt of a <hi>clear</hi> Day; and when we had lain in Provi<g ref="char:EOLhyphen"/>ſions to make this Seaſon chearful, our <hi>Feaſts</hi> were ſuddenly turn'd into <hi>Mourning.</hi>
+               </p>
+               <p>As to the <hi>Pious</hi> and <hi>Charitable</hi> Actions u<g ref="char:EOLhyphen"/>ſual at <hi>this</hi> Time, no <hi>Afflictions</hi> can make
+<pb n="17" facs="tcp:64902:14"/>Them unſeaſonable; they rather call for <hi>more</hi> of <hi>ſuch</hi> good actions; but as to the Feaſting and Triffling part, that ſeems the leſs proper, under ſo Great and ſo <hi>Publick</hi> a loſs.</p>
+               <p>We have now in the ſpace of a Month or thereabouts, been bereav'd of <hi>Two</hi> of the greateſt <hi>Encouragers</hi> of <hi>Solid Piety</hi> in their ſeveral ways, that this Age hath for a long time produc'd! and what Serious Chriſtians can be fond of life, when ſo much <hi>Goodneſs</hi> and <hi>Vertue</hi> are departed from us, and ſo much <hi>Iniquity</hi> abounds? For how do the Men of <hi>Natural</hi> parts favour Atheiſm, or the Blaſphemies of <hi>Socinus?</hi> How do mul<g ref="char:EOLhyphen"/>titudes of the young of both Sexes give themſelves up to all manner of Uncleanneſs! How Intemperate and Riotous are ſome! How Worldly and Covetous are others! How Factious and Malicious are many, who paſs for ſober People! How few are Truly <hi>Devout,</hi> Lovers of <hi>God,</hi> and of <hi>Wiſdom,</hi> acted with a Spirit of <hi>Zeal</hi> and <hi>Diſcretion?</hi>
+               </p>
+               <p>
+                  <pb n="18" facs="tcp:64902:15"/>
+When God Almighty makes up His <hi>Jew<g ref="char:EOLhyphen"/>els</hi> in haſte, and takes away His <hi>Choſen Veſ<g ref="char:EOLhyphen"/>ſels</hi> ſo <hi>ſuddenly;</hi> it is a Terrible ſign, that He intends to bring ſome great Evil upon us: for when ſuch <hi>Supports</hi> are remov'd, what ſhall hinder the Overflowings of Ungodli<g ref="char:EOLhyphen"/>neſs? and when once a Torrent of Sin breaks in upon us, it will be ſoon follow'd by a Deluge of Judgments.</p>
+               <p>The Beſt uſe we can make of ſuch <hi>ſevere Diſpenſations,</hi> is to turn immediately from our Sins; to betake our ſelves to the Strong holds of Religion; to Imitate the Vertues of <hi>thoſe,</hi> whoſe Departure we deplore; and to admire God, and Adore Him in all His proceedings.</p>
+               <p>We were certainly moſt Happy in a <hi>Queen,</hi> who was an Ornament and Bleſſing to this Kingdom: who made ſuch a ſtep to ſave a <hi>Sinking</hi> Nation, as Her <hi>Tenderneſs</hi> ſhrunk from, but Her <hi>Wiſdom</hi> and <hi>Conſcience</hi> ſaw <hi>Neceſſary</hi> to make: And tho' <hi>She</hi> has been <hi>Cenſur</hi>'d in the opinion of ſome, whoſe Judg<g ref="char:EOLhyphen"/>ments
+<pb n="19" facs="tcp:64902:15"/>have been ſway'd, either by a <hi>Falſe pity,</hi> or by <hi>Miſtaken</hi> principles of <hi>Government;</hi> yet all who could conſider <hi>wiſely,</hi> did not only <hi>acquit,</hi> but <hi>applaud</hi> Her; and all who Truly favour'd Vertue, and truly <hi>Knew</hi> Her, <hi>Lov</hi>'d Her.</p>
+               <p>If <hi>She</hi> had any Real Enemies, they were the Wicked and the <hi>Prophane,</hi> whom <hi>She</hi> would never Countenance, however <hi>Power<g ref="char:EOLhyphen"/>ful</hi> and <hi>Great:</hi> and 'tis no wonder, if <hi>they,</hi> who dare to Blaſpheme even <hi>God Himſelf,</hi> The Fountain of all <hi>Goodneſs;</hi> ſhould like<g ref="char:EOLhyphen"/>wiſe endeavour to Defame the Beſt <hi>Created Lovelineſs: who</hi> was Kind to all, who had any <hi>Merit,</hi> and not willing to offend thoſe who had <hi>None; who</hi> endeavour'd to make all about Her as Vertuous, and thereby as Love<g ref="char:EOLhyphen"/>ly as Her ſelf; and <hi>who</hi> was always ready to place Her Diſtinguiſhing favours, where God had given any ſingular Grace.</p>
+               <p>I find I am entring into Her <hi>Character</hi> a<g ref="char:EOLhyphen"/>gain: But tho' it be a moſt Engaging Theme, I muſt now try to refrain.</p>
+               <p>
+                  <pb n="20" facs="tcp:64902:16"/>
+Perhaps I may be thought too forward in meddling at all with ſo <hi>Great a Subject,</hi> but truly, I was of opinion, that any <hi>other</hi> at this Time, would hardly have gone down; and that the Publick Concern had indiſpos'd my Auditory for any <hi>Common</hi> Diſcourſe: I was alſo perſwaded, that I might recommend <hi>Piety</hi> with ſome advantage to you, under ſo <hi>Eminent,</hi> and ſo <hi>Affecting</hi> an <hi>Example.</hi>
+               </p>
+               <p>I have now <hi>another Conſideration</hi> to lay before you, which is a <hi>General Contribution,</hi> to Be gather'd from your reſpective Dwel<g ref="char:EOLhyphen"/>lings, for the preſent Relief of the <hi>Poor;</hi> recommended to us by <hi>Royal Authority:</hi> where <hi>our King</hi> not only calls upon us to be Charitable, but goes before us in this Duty, and ſets a Pattern for us to follow.</p>
+               <p>You are Exhorted to Relieve thoſe who are of the ſame Houſhold of Faith, who live in the ſame City with you, who are Di<g ref="char:EOLhyphen"/>ſtinguiſh'd from you only by their <hi>Miſery:</hi> who ſuffer, not for want of Induſtry, but by reaſon of a Deadneſs of Trade; and whoſe
+<pb n="21" facs="tcp:64902:16"/>Poverty, is not their Sin, but their Calamity.</p>
+               <p>It muſt be confeſs'd, that <hi>
+                     <g ref="char:V">Ʋ</g>ncharitableneſs,</hi> as it relates to the relieving of the Diſtreſs'd, is none of our <hi>National Sins:</hi> for our Nation has been made a <hi>Sanctuary</hi> for <hi>Exiles,</hi> and we have largely contributed to the Support of our <hi>perſecuted Brethren,</hi> who have fled to us from all Quarters: But that ſhould not hin<g ref="char:EOLhyphen"/>der us from being Kind to our <hi>own Poor;</hi> even <hi>they</hi> ſuffer for their <hi>Religion</hi> too, tho' they keep their <hi>Dwellings:</hi> for whilſt we la<g ref="char:EOLhyphen"/>bour under a neceſſity of <hi>War,</hi> there are ma<g ref="char:EOLhyphen"/>ny hardſhips and loſſes, which muſt neceſſa<g ref="char:EOLhyphen"/>rily fall heavy upon many particular Families: but whilſt we are able to leſſen the Afflicti<g ref="char:EOLhyphen"/>ons of others by an eaſie Contribution, let us not be backward in Well-doing.</p>
+               <p>There is ſome hope, that God will ſtill Support us under all our Calamities, becauſe there is ſo much of the true Spirit of Chriſti<g ref="char:EOLhyphen"/>an <hi>Charity</hi> remaining ſtill amongſt us: but if <hi>this Fountain</hi> ſhould once dry up, I fear, we ſhould ſcarce have any other <hi>Publick Vertue</hi> left, to plead our Cauſe with God.</p>
+               <p>
+                  <pb n="22" facs="tcp:64902:17"/>
+He therefore, who has an Abundance, let him give plentifully; He who has but little, let him give without diſtruſt, or fear of wanting; for the Eſpecial Providence of God will not fail to make a ſuitable return.</p>
+               <p>Complain not of the <hi>Difficulty</hi> of the Times, when God allows you many Enjoyments, and Means of making others happy: Neither be you tir'd with the <hi>frequency</hi> of ſuch occaſions as this; for they preſent you with the beſt opportunities of Glorifying God, and will give you a mighty ſupport, when ever your Day of Calamity comes.</p>
+               <p>I am ſure, our late Gracious <hi>Queen</hi> gave Her ſelf a Conſtant imployment and exerciſe in <hi>this Duty:</hi> it was Her delight and contri<g ref="char:EOLhyphen"/>vance how <hi>She</hi> might ſpare, and lay by for <hi>Charitable</hi> uſes. All Her prudent <hi>Manage<g ref="char:EOLhyphen"/>ments</hi> had an Eye to this Vertue; and ſhe brought a <hi>Decent Frugality</hi> into faſhion a<g ref="char:EOLhyphen"/>mong the Chief of Her <hi>Honourable Atten<g ref="char:EOLhyphen"/>dants;</hi> who in Imitation of Her, ſo propor<g ref="char:EOLhyphen"/>tion'd their Expences, that they might always have a certain <hi>Fund</hi> for <hi>Charity.</hi>
+               </p>
+               <p>
+                  <pb n="23" facs="tcp:64902:17"/>
+When ever any real Neceſſitious Condition was truly repreſented at <hi>Court,</hi> it ſeldom fail'd of ſome Relief: nay, it was a Common thing, for the <hi>Ladies</hi> who were about the <hi>Queen,</hi> to Contribute freely themſelves upon any ſuch juſt occaſion, and amongſt them to make a <hi>Purſe</hi> for diſtreſſed <hi>Perſons:</hi> of ſuch general Influence, is a <hi>Great</hi> Example! and ſo largely Beneficial, is a <hi>Good</hi> one.</p>
+               <p>Now ſince God has been pleas'd to Turn our <hi>Feaſtings</hi> into <hi>Mourning;</hi> let us turn ſome part of our <hi>Hoſpitality</hi> into acts of <hi>Charity:</hi> and let us Honour the Memory of our Dear Departed <hi>Queen,</hi> by an Immediate Imitation of Her Example in <hi>this particular;</hi> and by a preſent, and chearful exerciſe of that <hi>Ver<g ref="char:EOLhyphen"/>tue,</hi> which <hi>She</hi> always practis'd and lov'd: That when God ſhall pleaſe to call us out of this World, we alſo may be found <hi>Doing</hi> of <hi>Good,</hi> and be receiv'd into that Joy of our <hi>Lord</hi> and <hi>Maſter,</hi> of which all his <hi>Good</hi> and <hi>Faithful</hi> Servants ſhall partake.</p>
+               <pb n="24" facs="tcp:64902:18"/>
+               <closer>Now to God the Father, God the Son, and God the Holy Ghoſt, be all Honour, Glory, Power, Praiſe and Thankſgiving, now and for evermore. <hi>Amen.</hi>
+               </closer>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:64902:18"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
